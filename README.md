@@ -6,10 +6,16 @@ The following abbreviations are used in file names:
 
 AA: Aldosterone Antagonists
 
+ACE: ACE inhibitors
+
 ANT: Antimicrobials
 
 ARB: Angiotensin receptor blockers
 
 IMM: Immunosuppressants
 
+LOOP: Loop diuretics
+
 NEP: Other nephrotoxins
+
+THI: Thiazide diuretics
