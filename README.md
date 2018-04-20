@@ -6,7 +6,7 @@ The following abbreviations are used in file names:
 
 AA: Aldosterone Antagonists
 
-ACE: ACE inhibitors
+ACEI: ACE inhibitors
 
 ANT: Antimicrobials
 
